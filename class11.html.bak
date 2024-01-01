@@ -1,0 +1,42 @@
+<table style="background-color:red">
+	<thead style="color:white">
+		<th>sl</th>
+		<th>name</th>
+		<th>class</th>
+	</thead>
+	<tbody style="color:yellow">
+		<tr>
+			<td>1.</td>
+			<td>asa.</td>
+			<td>10.</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>asad</td>
+			<td>4</td>
+		</tr>
+		<tr>
+		<td>3</td>
+		<td>jebin</td>
+		<td>20</td>
+		
+		
+		</tr>
+	</tbody>
+</table>
+
+
+<a href="index.html">Google</a>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+.flex-container{
+    height: 100px;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.item{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+<style>#linone{list-style:none;color:red;}
+
+</style>
+
+
+
+
+
+<ol id="linone">
+<li>apple</li>
+<li>orange</li>
+<li>mango</li>
+<li>banana</li>
+</ol>
+
+<ul id="linone" style="color:blue>
+<li>apple</li>
+<li>orange</li>
+<li>mango</li>
+<li>banana</li>
+</ul>
+
+
+
+<a herf="index.html">yahoo</a>
